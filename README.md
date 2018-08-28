@@ -10,8 +10,6 @@ sudo docker run -d -p 8586:8081 plantuml/plantuml-server:jetty
 
 # Example of running wrapper
 
-``` 
-
 ![alt text](https://g.gravizo.com/svg?
  digraph G {
    main -> parse -> execute;
@@ -23,5 +21,3 @@ sudo docker run -d -p 8586:8081 plantuml/plantuml-server:jetty
    main -> printf;
    execute -> compare;
   })
-
-```
