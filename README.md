@@ -68,7 +68,7 @@ deactivate A;
 
 On github you need to use source with custom marks. The regular embed doesn't work as easily since the github server tends to break it.
 
-![Alt text](https://g.gravizo.com/source/custom_mark10?https%3A%2F%2Fraw.githubusercontent.com%2FTLmaK0%2Fgravizo%2Fmaster%2FREADME.md)
+![Alt text](https://g.gravizo.com/source/custom_mark10?https://raw.githubusercontent.com/AngeliqueDawnbringer/php_graph_wrappers/master/README.md)
 
 <details> 
 <summary></summary>
