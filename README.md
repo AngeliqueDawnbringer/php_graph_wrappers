@@ -3,9 +3,11 @@ PHP Wrappers for PlantUML-server and Graphviz-server docker-images
 
 # Required
 sudo docker pull plantuml/plantuml-server:jetty
+
 sudo docker pull omerio/graphviz-server
 
 sudo docker run -d -p 8585:8585 omerio/graphviz-server 8585
+
 sudo docker run -d -p 8586:8081 plantuml/plantuml-server:jetty
 
 # Embed PlantUML in AMP-pages
