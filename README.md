@@ -1,5 +1,5 @@
 # php_graph_wrappers
-PHP Wrappers for PlantUML-server and Graphviz-server
+PHP Wrappers for PlantUML-server and Graphviz-server docker-images
 
 # Required
 sudo docker pull plantuml/plantuml-server:jetty
