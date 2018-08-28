@@ -12,7 +12,7 @@ sudo docker run -d -p 8586:8081 plantuml/plantuml-server:jetty
 
 ``` 
 
-![Alt Text](https://g.gravizo.com/svg?
+![alt text](https://g.gravizo.com/svg?
  digraph G {
    main -> parse -> execute;
    main -> init;
