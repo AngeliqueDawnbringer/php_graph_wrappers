@@ -10,7 +10,7 @@ sudo docker run -d -p 8586:8081 plantuml/plantuml-server:jetty
 
 # Example of running wrapper
 
-![Alt Text](https://api.dawnbringer.net/graph/dot/?
+![Alt Text](https://api.dawnbringer.net/graph/dot?
 digraph G {
     aize ="4,4";
     main [shape=box];
